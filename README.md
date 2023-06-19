@@ -1,4 +1,4 @@
-<p align="center"> <img width="100%" ![background](https://github.com/ahmedashfaq850/Random-Gif-Generator-using-Custom-Hook-in-React/assets/74646219/b4ad3cfc-647c-4df0-96a3-178c7439c1b7) alt="ahmedashfaq850" /> </p>
+<p align="center"> <img width="100%" src="https://ibb.co/XjkQSjy" alt="ahmedashfaq850" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashfaq</h1>
