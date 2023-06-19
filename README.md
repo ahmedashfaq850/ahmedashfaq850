@@ -1,5 +1,5 @@
-<p align="center"> <img width="100%" src="https://ibb.co/XjkQSjy" alt="ahmedashfaq850" /> </p>
-![background](https://github.com/ahmedashfaq850/Random-Gif-Generator-using-Custom-Hook-in-React/assets/74646219/b4ad3cfc-647c-4df0-96a3-178c7439c1b7)
+![background](https://github.com/ahmedashfaq850/Random-Gif-Generator-using-Custom-Hook-in-React/assets/74646219/d4f2856f-f10d-43d2-9f7e-142f6dc4a744)
+
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashfaq</h1>
 <h3 align="center">Software Engineer | Front-End ⚛ React Developer</h3>
