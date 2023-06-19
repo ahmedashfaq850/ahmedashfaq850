@@ -9,17 +9,17 @@
 
 
 
-- 🔭 I’m currently working on **Crypto Currency Tracker Dashboard**
+- 🔭 I’m currently working on **Next.js | React.js | Node.js**
 
-- 🌱 I’m currently learning **Next.js | React Native | Node.js**
+- 🌱 I’m currently learning **Blockchain | Web 3.0 | Metaverse**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at www.ahmedashfaq.tech
 
 - 💬 Ask me about **react, git, website designing,**
 
 - 📫 How to reach me **ahmedashfaq6777@gmai.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📄 Know about my experiences www.ahmedashfaq.tech
 
 - ⚡ Fun fact **I think I am very friendly**
 
