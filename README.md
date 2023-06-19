@@ -1,9 +1,10 @@
-<p align="center"> <img width="100%" src="https://user-images.githubusercontent.com/74646219/190899782-a9e1e5e0-2c74-46e1-a184-24dca70accff.png" alt="ahmedashfaq850" /> </p>
+<p align="center"> <img width="100%" src="![background](https://github.com/ahmedashfaq850/ahmedashfaq850/assets/74646219/8a3db7d4-17df-4f40-8b59-66b03322ff36)" alt="ahmedashfaq850" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashfaq</h1>
 <h3 align="center">Software Engineer | Front-End ⚛ React Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 
 
 
