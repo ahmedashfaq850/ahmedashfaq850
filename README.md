@@ -1,8 +1,8 @@
 ![banner](https://github.com/ahmedashfaq850/ahmedashfaq850/assets/74646219/d5e6a19c-d906-4641-bece-f797ce445c4e)
 
 
-<h1 align="center">Hi 👋, I'm Ahmed Ashfaq</h1>
-<h3 align="center">Software Engineer | Front-End ⚛ React Developer</h3>
+<h1 align="center">Hi 👋, I'm Hafiz M.Ahmed</h1>
+<h3 align="center">Front-End ⚛ React Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
@@ -10,15 +10,15 @@
 
 
 
-- 🔭 I’m currently working on **Next.js | React.js | Node.js**
+- 🔭 I’m currently working on **Next.js | React.js | React Native**
 
-- 🌱 I’m currently learning **Blockchain | Web 3.0 | Metaverse**
+- 🌱 I’m currently learning **Lang Chain, Large Language Models, AI integration with Next.js**
 
 - 👨‍💻 All of my projects are available at www.ahmedashfaq.tech
 
 - 💬 Ask me about **react, git, website designing,**
 
-- 📫 How to reach me **ahmedashfaq6777@gmai.com**
+- 📫 How to reach me **hafizm.ahmed1998@gmail.com**
 
 - 📄 Know about my experiences www.ahmedashfaq.tech
 
