@@ -1,5 +1,4 @@
-![banner](https://github.com/ahmedashfaq850/ahmedashfaq850/assets/74646219/e07a0317-ae88-4bbf-82dd-aa7c9bf91829)
-
+![banner](https://github.com/ahmedashfaq850/ahmedashfaq850/assets/74646219/d5e6a19c-d906-4641-bece-f797ce445c4e)
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashfaq</h1>
