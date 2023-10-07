@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at www.ahmedashfaq.tech
 
-- 💬 Ask me about **react, git, website designing,**
+- 💬 Ask me about **react, next.js, development,**
 
 - 📫 How to reach me **hafizm.ahmed1998@gmail.com**
 
