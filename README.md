@@ -1,4 +1,4 @@
-![updated](https://github.com/user-attachments/assets/74d23efe-1a07-4c3f-a115-4d419aaa6235)
+![banner](https://github.com/user-attachments/assets/92c8f408-0160-44bd-8572-a1ad9bfbbda0)
 
 
 <h1 align="center">Hi 👋, I'm Hafiz M.Ahmed</h1>
