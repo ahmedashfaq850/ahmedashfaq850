@@ -1,4 +1,3 @@
-![banner](https://github.com/ahmedashfaq850/ahmedashfaq850/assets/74646219/d5e6a19c-d906-4641-bece-f797ce445c4e)
 ![updated](https://github.com/user-attachments/assets/74d23efe-1a07-4c3f-a115-4d419aaa6235)
 
 
