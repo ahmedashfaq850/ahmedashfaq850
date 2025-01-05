@@ -1,10 +1,10 @@
-![banner](https://github.com/user-attachments/assets/92c8f408-0160-44bd-8572-a1ad9bfbbda0)
 
+![updated banner](https://github.com/user-attachments/assets/2f4046f6-349a-4d45-9909-8c6f1cbab25e)
 
 
 
 <h1 align="center">Hi 👋, I'm Hafiz M.Ahmed</h1>
-<h3 align="center">Front-End ⚛ React Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
@@ -12,9 +12,9 @@
 
 
 
-- 🔭 I’m currently working on **Next.js | React.js | React Native**
+- 🔭 I’m currently working on **Next.js | React.js | React Native | FastAPI**
 
-- 🌱 I’m currently learning **Lang Chain, Large Language Models, AI integration with Next.js**
+- 🌱 I’m currently learning **Agentic AI, AI integration with Web and Mobile Apps Frameworks**
 
 - 👨‍💻 All of my projects are available at www.ahmedashfaq.tech
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **hafizm.ahmed1998@gmail.com**
 
-- 📄 Know about my experiences www.ahmedashfaq.tech
+- 📄 My Daily Blogs you can read from here https://medium.com/@hafizm.ahmed1998
 
 - ⚡ Fun fact **I think I am very friendly**
 
