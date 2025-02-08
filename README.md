@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Hafiz M.Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Build AI Agents and Workflow Automations using (n8n | LangGraph | Crew AI) | Develop AI Applications using (Next.js | FastAPI) | Pursuing MSc in AI</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 
