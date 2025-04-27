@@ -1,5 +1,5 @@
 
-![updated banner](https://github.com/user-attachments/assets/2f4046f6-349a-4d45-9909-8c6f1cbab25e)
+![Purple and Green Vibrant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/7631121e-982e-43fe-a540-d4a9e2e9dd48)
 
 
 
