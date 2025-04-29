@@ -28,9 +28,6 @@
   <a href="https://www.linkedin.com/in/ahmedashfaq67/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100005047933004" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -94,10 +91,14 @@
 
 ---
 
-## 🧠 Featured Projects (Coming Soon)
+## 🧠 Featured Projects
 
-> 🚀 Stay tuned for smart AI apps using OpenAI, LangChain, FastAPI & Streamlit.  
-> 🎯 I solve real-world problems with intelligent automation.
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **🧠 AI PDF Chatbot** | Chat with PDFs using Gemini API and Streamlit | Streamlit, Gemini API | [View Demo](https://github.com/ahmedashfaq850/pdf-chatbot) |
+| **💬 SQL Generator** | Convert plain English to SQL using LLM | Streamlit, OpenAI API | [View Demo](https://github.com/ahmedashfaq850/text-to-sql-generator) |
+| **🪪 ID Card Info Extractor** | Extract structured info from identity cards using OCR + LLM | Streamlit, FastAPI, Python | [View Demo](https://github.com/ahmedashfaq850/id-card-info-extractor) |
+
 
 ---
 
