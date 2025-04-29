@@ -71,6 +71,18 @@
 
 ---
 
+
+## 🧠 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **🧠 AI PDF Chatbot** | Chat with PDFs using Gemini API and Streamlit | Streamlit, Gemini API | [View Demo](https://github.com/ahmedashfaq850/pdf-chatbot) |
+| **💬 SQL Generator** | Convert plain English to SQL using LLM | Streamlit, OpenAI API | [View Demo](https://github.com/ahmedashfaq850/text-to-sql-generator) |
+| **🪪 ID Card Info Extractor** | Extract structured info from identity cards using OCR + LLM | Streamlit, FastAPI, Python | [View Demo](https://github.com/ahmedashfaq850/id-card-info-extractor) |
+
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,17 +100,4 @@
 </a>
 
 </div>
-
----
-
-## 🧠 Featured Projects
-
-| Project | Description | Tech Stack | Live |
-|--------|-------------|------------|------|
-| **🧠 AI PDF Chatbot** | Chat with PDFs using Gemini API and Streamlit | Streamlit, Gemini API | [View Demo](https://github.com/ahmedashfaq850/pdf-chatbot) |
-| **💬 SQL Generator** | Convert plain English to SQL using LLM | Streamlit, OpenAI API | [View Demo](https://github.com/ahmedashfaq850/text-to-sql-generator) |
-| **🪪 ID Card Info Extractor** | Extract structured info from identity cards using OCR + LLM | Streamlit, FastAPI, Python | [View Demo](https://github.com/ahmedashfaq850/id-card-info-extractor) |
-
-
----
 
