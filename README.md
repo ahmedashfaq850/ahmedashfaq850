@@ -1,4 +1,6 @@
-![Purple and Green Vibrant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/7631121e-982e-43fe-a540-d4a9e2e9dd48)
+![Purple and Green Vibrant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/2328d6db-5f67-4bf3-ab2b-287274dd6dac)
+
+
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">🚀 Full Stack Engineer (Next.js | FastAPI) | Generative AI | Agentic AI | AI Agent Integrations</h3>
