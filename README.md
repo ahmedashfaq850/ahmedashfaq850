@@ -1,7 +1,7 @@
 ![Purple and Green Vibrant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/7631121e-982e-43fe-a540-d4a9e2e9dd48)
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">🚀 AI Engineer | Generative AI | AI Agents | MSc AI Student | Full-Stack AI App Developer</h3>
+<h3 align="center">🚀 Full Stack Engineer (Next.js | FastAPI) | Generative AI | Agentic AI | AI Agent Integrations</h3>
 
 <p align="center">
   <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
@@ -10,8 +10,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m working on **Generative AI, Agentic AI, NLP, and FastAPI-based ML apps**
-- 🌱 Currently learning **LLMOps, OpenAI Agent SDK, LangChain Patterns**
+- 🔭 I’m working on **Next.js, FastAPI Generative AI, Agentic AI, and AI Powered Web and Mobile apps apps**
+- 🌱 Currently learning **LLMOps, MCP Servers OpenAI Agent SDK, LangChain Patterns**
 - 💡 Passionate about building **production-ready AI agents & smart applications**
 - 📚 Writing daily on [Medium](https://medium.com/@hafizm.ahmed1998)
 - 🌐 All my work is live at [ahmedashfaq.tech](https://www.ahmedashfaq.tech)
