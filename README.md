@@ -1,4 +1,3 @@
-![Banner](https://github.com/user-attachments/assets/2328d6db-5f67-4bf3-ab2b-287274dd6dac)
 <img width="1584" height="396" alt="ai engineer" src="https://github.com/user-attachments/assets/6b4d90ef-d93c-446b-bc11-d9ccd7f792c3" />
 
 
