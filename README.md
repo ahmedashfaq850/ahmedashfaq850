@@ -7,7 +7,7 @@ AI Engineer • Automation Builder • LLM & Agent Systems
 </h3>
 
 <p align="center">
-I build AI systems that actually run in production — not just demos 😄  
+I build AI systems that actually run in production not just demos 😄  
 From LLM agents and RAG pipelines to workflow automation and backend APIs.
 </p>
 
